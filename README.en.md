@@ -49,3 +49,7 @@ The MikroTik documentation recommends avoiding internal storage for container vo
 ## Anonymization
 
 The script uses placeholders for sensitive data: the disk, the DNS server, MAC addresses, the probe ID and the RIPE comment. Do not push real values to the repository.
+
+## License
+
+This project is distributed under the [GNU General Public License v3.0](LICENSE), the same license as the project the image is based on. More information at the [FSF website](https://www.gnu.org/licenses/gpl-3.0.html).

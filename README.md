@@ -49,3 +49,7 @@ La documentación de MikroTik recomienda evitar el almacenamiento interno para l
 ## Anonimización
 
 El script usa placeholders para los datos sensibles: el disco, el DNS, las MAC, el identificador de la sonda y el comentario RIPE. No subas valores reales al repositorio.
+
+## Licencia
+
+Este proyecto se distribuye bajo la [GNU General Public License v3.0](LICENSE), la misma licencia que el proyecto del que parte la imagen. Más información en la [web de la FSF](https://www.gnu.org/licenses/gpl-3.0.html).
